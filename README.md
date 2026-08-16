@@ -36,15 +36,15 @@ I'm a B.Tech Computer Science student. Most of what I learn comes from building 
 ### GitHub Stats
 
 <div align="center">
-  <img height="240" src="https://github-stats-svg-eight.vercel.app/api/stats?username=MR1229" />
+  <img height="240" src="https://github-stats-svg-eight.vercel.app/api/stats?username=MaheshRPawar" />
 </div>
 
 <div align="center">
-  <img src="https://github-stats-svg-eight.vercel.app/api/langs?username=MR1229" />
+  <img src="https://github-stats-svg-eight.vercel.app/api/langs?username=MaheshRPawar" />
 </div>
 
 <div align="center">
-  <img src="https://github-streak-svg.vercel.app/api/streak?username=MR1229&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-streak-svg.vercel.app/api/streak?username=MaheshRPawar&theme=dark" alt="GitHub Streak Stats" />
 </div>
 
 <hr/>
@@ -61,7 +61,7 @@ I'm a B.Tech Computer Science student. Most of what I learn comes from building 
 ### Reach me
 
 <p align="left">
-  <a href="https://github.com/MR1229" target="_blank">
+  <a href="https://github.com/MaheshRPawar" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/maheshpawar-dev/" target="_blank">
