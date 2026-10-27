@@ -64,7 +64,7 @@ I'm a B.Tech Computer Science student. Most of what I learn comes from building 
   <a href="https://github.com/MaheshRPawar" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/maheshpawar-dev/" target="_blank">
+  <a href="https://linkedin.com/in/mahesh-pawar-dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:mrpawar1229@gmail.com" target="_blank">
